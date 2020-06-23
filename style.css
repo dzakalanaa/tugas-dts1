@@ -68,3 +68,160 @@
       border-radius: 10px;
       color: #19194d;
   }
+
+  .konten-atas {
+  padding: 180px 0 100px 0;
+  background-image: url(https://visitkorea.or.id/uploads/media/images/set_content/9b7d61b59942a2dbdf7aefd3234a141644.jpg);
+  background-size: cover;
+  background-opacity: 0.5;
+  color: white;
+  text-align: center
+  }
+
+
+  .konten-atas h1 {
+  opacity:1;
+  font-size:45px;
+  letter-spacing:5px;
+  margin-bottom:10px;
+  margin-top:0px;
+  }
+
+
+
+.konten-atas p {
+  opacity:0.9;
+  margin-bottom:3px;
+}
+
+.btn {
+  padding-top:12px;
+  padding-bottom:12px;
+  padding-left:24px;
+  padding-right:24px;
+  color:white;
+  display:inline-block;
+  opacity:0.8;
+  border-radius:10px;
+}
+
+.btn:hover {
+  opacity:1;
+}
+
+
+.signup {
+  background-color:#55acee;
+}
+
+
+
+
+.btn-wrapper {
+  margin-top :50px;
+  margin-bottom:20px;
+  margin-right:0;
+  margin-left:0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.fa {
+  margin-right:5px;
+}
+
+.konten-tengah {
+  height: 500px;
+  padding-bottom: 50px;
+  background-color: #f7f7f7;
+  text-align:center;
+}
+
+.heading {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.lesson {
+  float: left;
+  width: 20%;
+  height:300px;
+  width:200px;
+  margin-right:25px;
+  border:solid 2px #663399;
+  border-radius:10px;
+}
+
+.lesson-icon img {
+  height:196px;
+  width:196px;
+  padding-bottom:10px;
+  border-bottom:solid 3px #663399;
+  border-radius:10px;
+
+}
+
+
+.lesson-icon {
+  position:relative;
+}
+
+
+.lesson-icon p {
+  position:relative;
+  margin-top:0px;
+  margin-bottom:8px;
+  width:100%;
+  font-size:18px;
+  color:#696969;
+}
+
+
+.txt-contents {
+  width:80%;
+  display:inline-block;
+  margin-top:0px;
+  margin-bottom:8px;
+  font-size:18px;
+  color:#b3aeb5;
+}
+
+.lesson-icon i {
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+.konten-bawah {
+  border-bottom:1px solid #eee;
+  padding-bottom:80px;
+  text-align:center;
+}
+
+
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+
+.message:active {
+  box-shadow:none;
+  position:relative;
+  top:7px;
+}
+
+.heading h2 {
+  margin-top:0px;
+}
+.heading h3 {
+  font-weight: normal;
+}
